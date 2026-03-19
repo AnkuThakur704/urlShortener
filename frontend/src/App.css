@@ -1,0 +1,8 @@
+.main{
+  width: 95vw;
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  margin-top: 10vh;
+}
